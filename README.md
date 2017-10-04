@@ -16,7 +16,7 @@ Please contribute to this repository to help it make better. Any change like new
 * Install either Intellij https://www.jetbrains.com/idea/download/
 * If you like eclipse instead of intellij install eclipse https://eclipse.org/downloads/
 
-<h3> Set up your desktop </h3>
+<h3> Set up my desktop </h3>
 * Pull the git repository. Go to command line and type git clone https://github.com/mission-peace/interview.git
 * Go to root directory of checked out project.
 * Run ./gradlew idea to generate idea related classes
